@@ -1,0 +1,15 @@
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\bin\Debug\net6.0\DesignPattern-Decorator.exe
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\bin\Debug\net6.0\DesignPattern-Decorator.deps.json
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\bin\Debug\net6.0\DesignPattern-Decorator.runtimeconfig.json
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\bin\Debug\net6.0\DesignPattern-Decorator.dll
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\bin\Debug\net6.0\DesignPattern-Decorator.pdb
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\DesignPattern-Decorator.csproj.AssemblyReference.cache
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\DesignPattern-Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\DesignPattern-Decorator.AssemblyInfoInputs.cache
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\DesignPattern-Decorator.AssemblyInfo.cs
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\DesignPattern-Decorator.csproj.CoreCompileInputs.cache
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\DesignPattern-Decorator.dll
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\refint\DesignPattern-Decorator.dll
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\DesignPattern-Decorator.pdb
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\DesignPattern-Decorator.genruntimeconfig.cache
+C:\Users\AlefAlessandroPereir\Desktop\DesignPattern-Decorator\DesignPattern-Decorator\obj\Debug\net6.0\ref\DesignPattern-Decorator.dll
